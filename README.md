@@ -32,3 +32,11 @@ The Latex Legion has returned, squeakier, floatier, and more determined than eve
 4. **Optional:** Ignore the balloons. Seriously, it doesn’t matter.
 
 ---
+
+## 📸 **Screenshots**
+![Balloonageddon 2 Screenshot](Balloonageddon-2-Revenge-of-the-Latex-Legion/assets/balloon_screenshot.png)
+
+---
+
+## Link to start game:
+https://fvhreimert.github.io/Balloonageddon-2-Revenge-of-the-Latex-Legion/
