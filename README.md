@@ -34,7 +34,7 @@ The Latex Legion has returned, squeakier, floatier, and more determined than eve
 ---
 
 ## 📸 **Screenshots**
-![Balloonageddon 2 Screenshot](Balloonageddon-2-Revenge-of-the-Latex-Legion/assets/balloon_screenshot.png)
+![Balloonageddon 2 Screenshot](assets/balloon_screenshot.png)
 
 ---
 
