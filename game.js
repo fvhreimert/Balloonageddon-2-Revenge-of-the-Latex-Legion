@@ -26,8 +26,8 @@ window.addEventListener("resize", updateCanvasSize);
 
 // Game parameters
 const FPS = 60;
-const BALLOON_RISE_SPEED = 2; // Pixels per frame
-const BALLOON_SPAWN_INTERVAL = 110; // Frames between spawns
+const BALLOON_RISE_SPEED = 8; // Pixels per frame
+const BALLOON_SPAWN_INTERVAL = 20; // Frames between spawns
 let poppedCount = 476823;
 let frameCount = 0;
 
